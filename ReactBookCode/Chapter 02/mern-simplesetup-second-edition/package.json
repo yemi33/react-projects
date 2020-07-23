@@ -2,8 +2,8 @@
   "name": "mern-simplesetup",
   "version": "2.0.0",
   "description": "A quick check for your MERN stack installation",
-  "author": "Shama Hoque",
-  "license": "MIT",
+  "author": "Yemi Shin",
+  "license": "Carleton College",
   "keywords": [
     "react",
     "node",
@@ -23,8 +23,8 @@
     "start": "NODE_ENV=production node ./dist/server.generated.js"
   },
   "engines": {
-    "node": "13.12.0",
-    "npm": "6.14.4"
+    "node": "12.18.2",
+    "npm": "6.14.5"
   },
   "dependencies": {
     "@hot-loader/react-dom": "16.13.0",
